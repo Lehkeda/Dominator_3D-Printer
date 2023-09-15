@@ -1484,7 +1484,7 @@
  *     |    [-]    |
  *     O-- FRONT --+
  */
-#define NOZZLE_TO_PROBE_OFFSET { 27, 3, -3 } // E3D
+#define NOZZLE_TO_PROBE_OFFSET { 27, 3, -1 } // E3D
 //#define NOZZLE_TO_PROBE_OFFSET { 8, -40, -1 } // MK8
 
 // Most probes should stay away from the edges of the bed, but
