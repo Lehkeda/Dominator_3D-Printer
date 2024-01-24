@@ -1484,8 +1484,7 @@
  *     |    [-]    |
  *     O-- FRONT --+
  */
-#define NOZZLE_TO_PROBE_OFFSET { 27, 3, -1 } // E3D
-//#define NOZZLE_TO_PROBE_OFFSET { 8, -40, -1 } // MK8
+#define NOZZLE_TO_PROBE_OFFSET { -55, -10, -1 } // Ender 3 v2 MK8
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
